@@ -37,7 +37,7 @@ A recursive proof aggregator for [risc0](https://github.com/risc0/risc0) STARK e
 
 ## Phase 2 Architecture
 <div>
-<img src="proposal/assets/Risc0CommunityAggregatorPhase1.png" alt="Dr. Grouper Phase 1 Architecture Diagram" width="80%">
+<img src="proposal/assets/Risc0CommunityAggregatorPhase2.png" alt="Dr. Grouper Phase 2 Architecture Diagram" width="80%">
 </div>
 
 
