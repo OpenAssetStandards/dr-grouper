@@ -49,8 +49,10 @@ A recursive proof aggregator for [risc0](https://github.com/risc0/risc0) STARK e
 - [ ] Create a proof of concept peer to peer networking example and incentive model for decentralized proving of arbitrary risc0 executions
 - [ ] Create a circom gadget which makes it easy to show how users can easily create proofs of complex relationships based on the verified inputs/outputs of multiple risc0 executions in the 3 trees and verify this fact on chain with 300k or less gas
 
+## Get Involved
+#### [Join our Telegram](https://t.me/risc0/)
 
-# About
+## About
 
 <br />
 <div align="center">
